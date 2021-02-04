@@ -1,0 +1,18 @@
+arreglo1[8]={1,3,5,4,6,8,7,9};
+Elemento buscado: 8
+SI ESTA EN EL ARREGLO EN LA POSICION 8
+arreglo1[8]={1,3,5,4,6,8,7,9};
+Elemento buscado: 8
+SI ESTA EN EL ARREGLO EN LA POSICION 8
+arreglo1[8]={1,3,5,4,6,8,7,9};
+Elemento buscado: 8
+SI ESTA EN EL ARREGLO EN LA POSICION 8
+arreglo1[8]={1,3,5,4,6,8,7,9};
+Elemento buscado: 8
+SI ESTA EN EL ARREGLO EN LA POSICION 8
+arreglo1[8]={1,3,5,4,6,8,7,9};
+Elemento buscado: 8
+SI ESTA EN EL ARREGLO EN LA POSICION 8
+arreglo1[8]={1,3,5,4,6,8,7,9};
+Elemento buscado: 90
+NO ESTA EN EL ARREGLO
